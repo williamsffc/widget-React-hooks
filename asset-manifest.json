@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "//williamsffc.github.io/widget-React-hooks/static/js/main.ab082b08.chunk.js",
+    "main.js.map": "//williamsffc.github.io/widget-React-hooks/static/js/main.ab082b08.chunk.js.map",
+    "runtime-main.js": "//williamsffc.github.io/widget-React-hooks/static/js/runtime-main.b7df9fd0.js",
+    "runtime-main.js.map": "//williamsffc.github.io/widget-React-hooks/static/js/runtime-main.b7df9fd0.js.map",
+    "static/js/2.88a5588e.chunk.js": "//williamsffc.github.io/widget-React-hooks/static/js/2.88a5588e.chunk.js",
+    "static/js/2.88a5588e.chunk.js.map": "//williamsffc.github.io/widget-React-hooks/static/js/2.88a5588e.chunk.js.map",
+    "index.html": "//williamsffc.github.io/widget-React-hooks/index.html",
+    "static/js/2.88a5588e.chunk.js.LICENSE.txt": "//williamsffc.github.io/widget-React-hooks/static/js/2.88a5588e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7df9fd0.js",
+    "static/js/2.88a5588e.chunk.js",
+    "static/js/main.ab082b08.chunk.js"
+  ]
+}
